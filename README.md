@@ -1,4 +1,4 @@
-# 🚀 yubxv3 - YuB-X V3 Roblox API  
+# 🚀 yubxv3 - stable roblox api with best teleport handler!  
 **version:** `version-765338e04cf54fde`  
 
 ---
@@ -7,7 +7,7 @@
 
 1. **download the tools:**
    - [yubx injector v2](https://github.com/YuB-W/YuBX-RBX-MMP_V2)
-   - [Dumped Offsets](https://yub-x.com/hyperion)
+   - [dumped offsets](https://yub-x.com/hyperion)
 
 2. **run roblox** and inject `yubx.dll` using the yubx injector v2.
 
